@@ -1,4 +1,4 @@
-module awesomeProject
+module ldapasswd
 
 go 1.20
 
